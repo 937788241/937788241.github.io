@@ -1,25 +1,20 @@
-## Welcome to GitHub Pages
+## 个人信息
+姓名：潘玟  性别：女👩🏻  学号：2001020024
+籍贯：四川  出生日期：2001/12/12
+专业：国际经济与贸易
+政治面貌：团员
+电子邮件：903341354@qq.com📧
+### 技能总结
+1⃣️CET4 2⃣️剪辑 3⃣️
 
-You can use the [editor on GitHub](https://github.com/937788241/937788241.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# 兴趣爱好
+1⃣️阅读📖  2⃣️音乐🎧  3⃣️电影🎬  4⃣️散步🚶‍♀️  5⃣️睡觉😪
+## 教育背景
+大二在读中...
+### 主修课程
+💁🏻微观经济学，宏观经济学......目前未学专业课
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
